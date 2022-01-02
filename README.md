@@ -46,6 +46,10 @@
 ![2차 LOD_UML](https://user-images.githubusercontent.com/76659528/147882875-4cdad545-136e-4b6f-8290-30c6388b436e.png)<br>
 
 ## 10.프로그램 시연 영상
-![LOD시연_영상_1](https://user-images.githubusercontent.com/76659528/147883497-410edd34-07a1-421e-9938-30e4f9021ad0.gif)<br>
-![LOD시연_영상_2](https://user-images.githubusercontent.com/76659528/147883498-05dc7a53-e4a2-422a-9c22-6acf906bc364.gif)
 
+### 회원가입,로그인,카테고리,대시보드,문의하기
+![LOD시연_영상_1](https://user-images.githubusercontent.com/76659528/147883497-410edd34-07a1-421e-9938-30e4f9021ad0.gif)<br>
+
+
+### 문의한 내용 확인
+![LOD시연_영상_2](https://user-images.githubusercontent.com/76659528/147883498-05dc7a53-e4a2-422a-9c22-6acf906bc364.gif)
