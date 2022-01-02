@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67699516505",
+    "project_id": "life-of-day-f6df7",
+    "storage_bucket": "life-of-day-f6df7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67699516505:android:ada09ba4bb06202f62bd48",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.LOD"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67699516505-inkeqkq0b759c4r38qrogosgo108om3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGxqEb9MRL-UqlIJjTUlFZn5pDu1QU1Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67699516505-inkeqkq0b759c4r38qrogosgo108om3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

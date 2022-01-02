@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">67699516505</string>
+  <string name="google_storage_bucket" translatable="false">life-of-day-f6df7.appspot.com</string>
+  <string name="project_id" translatable="false">life-of-day-f6df7</string>
+  <string name="google_api_key" translatable="false">AIzaSyCGxqEb9MRL-UqlIJjTUlFZn5pDu1QU1Y8</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCGxqEb9MRL-UqlIJjTUlFZn5pDu1QU1Y8</string>
+  <string name="google_app_id" translatable="false">1:67699516505:android:ada09ba4bb06202f62bd48</string>
+  <string name="default_web_client_id" translatable="false">67699516505-inkeqkq0b759c4r38qrogosgo108om3o.apps.googleusercontent.com</string>
+</resources>
